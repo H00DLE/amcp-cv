@@ -1,4 +1,4 @@
-#Vladislav Khakimov  
+# Vladislav Khakimov  
 *Сontacts for communication: +79659765801*  
 Secondary general education.   
 Goal: game development.  
